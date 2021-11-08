@@ -1,0 +1,7 @@
+Infinite Sands 2: Golden Sand
+
+Created in a few days, mostly to stay sharp with Python. It also uses the PyGame framework: pygame.org
+
+Infinite Sands 2: Golden Sand is based on old falling sand flash games from the 2000s like Hell of Sand. It features only 2 types of sand at present, normal falling sand and anti-gravity sand. More were planned and only half-implemented. 
+
+I've included SandMain.py as sample code. It features the main loop as well as the GUI control 
